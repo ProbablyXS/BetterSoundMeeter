@@ -38,7 +38,7 @@ jobs:
           msbuild YourProject.sln /p:Configuration=Release /p:OutputPath=./output  # Publish the app to the output folder
 
       - name: Upload build artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3  # Updated to v3
         with:
           name: BetterSoundMeeter-WindowsForms
           path: ./output  # Upload the build output as an artifact for later use
