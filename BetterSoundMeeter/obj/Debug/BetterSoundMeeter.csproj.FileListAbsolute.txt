@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\BetterSoundMeeter.exe.config
+C:\Users\admin\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\BetterSoundMeeter.exe
+C:\Users\admin\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\BetterSoundMeeter.pdb
+C:\Users\admin\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\BetterSoundMeeter.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\admin\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\BetterSoundMeeter.Properties.Resources.resources
+C:\Users\admin\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\BetterSoundMeeter.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\BetterSoundMeeter.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\BetterSoundMeeter.exe
+C:\Users\admin\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\BetterSoundMeeter.pdb
