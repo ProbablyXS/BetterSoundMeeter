@@ -2,6 +2,14 @@
 
 **BetterSoundMeeter** is a soundboard tool designed to enhance the Voicemeeter interface, specifically aimed at improving the functionality of **MacroButton**. This tool provides users with a more intuitive and customizable interface for controlling sound effects, managing audio levels, and automating tasks, making it easier to use Voicemeeter for live streaming, podcasting, or other audio-related applications.
 
+## Showcase
+
+
+
+https://github.com/user-attachments/assets/5bae7586-ede5-4819-98f2-f26253874f26
+
+
+
 ## Features
 
 - **Customizable Soundboard**: Easily trigger sound effects with customizable buttons.
